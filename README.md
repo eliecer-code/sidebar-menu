@@ -1,8 +1,12 @@
-# React + Vite
+#### VISTA PREVIA DEL SIDEBAR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/eliecer-code/sidebar-menu/assets/60225185/dc7eafc4-64be-46c3-825a-be3fa2dac97b)
 
-Currently, two official plugins are available:
+### DARK MODE ACTIVE
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/eliecer-code/sidebar-menu/assets/60225185/9580ccb8-a104-48ba-b79c-fcad145f3a05)
+
+### VISTA CONTRAIDA
+
+![image](https://github.com/eliecer-code/sidebar-menu/assets/60225185/892a829b-9e83-42c2-9784-2e435c282801)
+
